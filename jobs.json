@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dev.to",
+    "data": {
+      "source": "Dev.to",
+      "url": "https://dev.to/feed/"
+    }
+  },
+  {
+    "name": "HackerNews",
+    "data": {
+      "source": "HackerNews",
+      "url": "https://news.ycombinator.com/rss"
+    }
+  }
+]
